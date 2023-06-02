@@ -1,4 +1,5 @@
 import sys
+from src.logger import logging
 
 """
 to raise any exception in our code
